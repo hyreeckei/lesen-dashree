@@ -1,6 +1,6 @@
 {
   "policy": "allowlist",
-  "allowedDeviceIds": ["5cd538dda6eb168f"],
+  "allowedDeviceIds": [],
   "allowedLicenseKeys": [
     "HYREE-2026-0001"
   ],
