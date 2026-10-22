@@ -2,7 +2,7 @@
   "policy": "allowlist",
   "allowedDeviceIds": [],
   "allowedLicenseKeys": [
-    "HYREE-2026-0001"
+    
   ],
   "blockedMessage": "Not activated. Contact the seller."
 }
