@@ -1,6 +1,6 @@
 {
   "policy": "allowlist",
-  "allowedDeviceIds": ["5cd538dda6eb168f","a739785b05de8f04"],
+  "allowedDeviceIds": ["5cd538dda6eb168f"],["a739785b05de8f04"],
   "allowedLicenseKeys": [],
   "blockedMessage": "Not activated. Contact the seller."
 }
