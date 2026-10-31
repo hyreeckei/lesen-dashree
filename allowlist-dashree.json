@@ -2,7 +2,8 @@
   "policy": "allowlist",
   "allowedDeviceIds": [
     "5cd538dda6eb168f",
-    "a739785b05de8f04"
+    "a739785b05de8f04",
+    "659ev11dfeee75ed"
   ],
   "allowedLicenseKeys": [],
   "blockedMessage": "Not activated. Contact the seller."
